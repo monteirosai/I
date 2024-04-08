@@ -1,0 +1,77 @@
+body {
+    color: black;
+    background-color: rgb(49, 49, 49);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header img {
+    border-bottom: 50%;
+    border: 2px solid;
+}
+
+.center {
+    /*"." é quando é uma class criada*/
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+footer img {
+    border-color: rgb(0, 0, 0);
+    border-bottom: 50%;
+    border: 2px solid;
+}
+
+h4 {
+    text-align: left;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 2px;
+}
+
+footer h4 {
+    margin: 2px;
+}
+
+.papaidoceu {
+    padding: 0px 75px;
+}
+nav a:hover{
+    color: white;
+}
